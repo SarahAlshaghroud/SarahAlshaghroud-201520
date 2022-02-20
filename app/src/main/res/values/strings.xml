@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SarahAlshaghroud-201520</string>
+
+    <string name="txtTitle">Ticket Value</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">FIND THE COST</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="txtGroup">
+        <item>Gold</item>
+        <item>Silver</item>
+        <item>Bronze</item>
+    </string-array>
+</resources>
